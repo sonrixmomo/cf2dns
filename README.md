@@ -1,6 +1,6 @@
 ### 增加dddb/cf2dns docker镜像  --update 2024.6.4
 
-> 使用方法.
+> 使用方法
 
 1. 拉取cf2dns docker镜像 `docker pull dddb/cf2dns`
 
